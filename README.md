@@ -69,3 +69,33 @@ Understanding the difference between low-fidelity and high-fidelity wireframes i
 ### A Sample Wireframe
 The wireframe found [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=sTAeZGS3VrBemZUd-0) is a high fidelity wireframe.
 
+## Popular Wireframing Tools
+There are several tools available for creating wireframes, each offering different levels of functionality depending on the stage of the design process and the team’s needs. Some of the most widely used tools include:
+
+* **Balsamiq** – Great for low-fidelity wireframes; it mimics hand-drawn sketches and is ideal for quick planning and brainstorming.
+
+* **Adobe XD** – Suitable for both wireframing and high-fidelity prototypes, offering powerful design and interactive features.
+
+* **Sketch** – A vector-based design tool popular on macOS, often used for UI/UX design, including wireframes.
+
+* **Axure RP** – Known for advanced prototyping and dynamic content, useful in enterprise or complex interaction scenarios.
+
+* **Figma** – A browser-based design and prototyping tool that has quickly become a favorite for modern UI/UX teams.
+
+### Recommended: Figma
+**Figma** is highly recommended for wireframing, especially in collaborative or team environments. It combines the simplicity needed for wireframing with the power to scale into high-fidelity design and prototyping—all in one platform.
+
+**Key Features:**
+* Browser-based and cloud-hosted – No software installation needed
+
+* Real-time collaboration – Multiple users can design, edit, and comment at the same time
+
+* Drag-and-drop interface – Makes wireframing intuitive, even for beginners
+
+* Built-in components and templates – Speeds up the wireframing process
+
+* Supports both low- and high-fidelity designs – Useful across the entire design workflow
+
+**Why Figma Is Useful for Wireframing:**
+
+Figma simplifies the design process by allowing teams to sketch out ideas quickly and iterate collaboratively. Its versatility makes it ideal for transitioning from basic wireframes to fully interactive prototypes, all while keeping everyone aligned in one shared workspace.
