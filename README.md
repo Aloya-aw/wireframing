@@ -4,7 +4,7 @@ Wireframing is the process of creating a simple, visual blueprint of a digital i
 ## Key Elements of a Wireframe
 1. **Layout Structure:**
     * **Explanation:** This refers to the overall arrangement or skeleton of the page. It defines how sections like the header, sidebar, main content, and footer are organized on the screen.
-    
+
     * **Example:** In an e-commerce site, the layout might place a banner at the top, a category sidebar on the left, and product listings in the main area. This helps users quickly understand where to look for what.
 
 2. **Navigation**
@@ -21,4 +21,51 @@ Wireframing is the process of creating a simple, visual blueprint of a digital i
    * **Explanation:** This represents interactive components that define what users can do on the page. Even though wireframes are not fully functional, they often show placeholders for actions like input fields, buttons, and dropdowns.
 
     * **Example:** A date picker for selecting check-in/check-out dates or a “Book Now” button shows the intended user actions during the checkout process.
+
+## Types of Wireframes
+Understanding the difference between low-fidelity and high-fidelity wireframes is essential for choosing the right approach at each stage of the design process. Below is a clear comparison to help you see how they differ and when to use each:
+
+1. **Level of Detail**
+    * **Low-Fidelity Wireframes**
+
+        * Simple, sketch-like layouts
+
+        * Use basic shapes (boxes, lines, placeholders)
+
+        * No color, typography, or images
+
+        * Focus on structure, layout, and overall flow
+
+    * **High-Fidelity Wireframes**
+
+        * Highly detailed and closer to the final design
+
+        * Include fonts, colors, real content, and interactive elements
+
+        * May look like a prototype or mockup
+
+2. **Purpose in the Design Process**
+    * **Low-Fidelity is used in the early stages of design to:**
+
+        * Explore layout ideas quickly
+
+        * Facilitate feedback from team members and stakeholders
+
+        * Encourage iteration and experimentation without high cost
+
+    * **High-Fidelity is used in the later stages to:**
+
+        * Finalize design decisions
+
+        * Communicate the visual direction of the product
+
+        * Prepare for usability testing or handoff to developers
+
+3. **Tools & Format**
+    * **Low-Fidelity:** Often created with pen and paper, whiteboards, or simple tools like Balsamiq
+
+    * **High-Fidelity:** Created in design tools like Figma, Adobe XD, or Sketch
+
+### A Sample Wireframe
+The wireframe found [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=sTAeZGS3VrBemZUd-0) is a high fidelity wireframe.
 
